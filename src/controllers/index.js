@@ -1,0 +1,1 @@
+module.exports.defaultController = require('./default.controller');
